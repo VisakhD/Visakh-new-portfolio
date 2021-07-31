@@ -28,10 +28,7 @@ function namevalidation(){
             $('#namestatus').html("")
             realname=true
         }
-        else{
-            $('#namestatus').html("Please enter a valid name")
-            realname=false
-        }
+        
         
 }
 
